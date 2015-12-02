@@ -1,0 +1,31 @@
+img{
+    width: 30px;
+    height: 30px;
+
+
+}
+#anadir{
+    width: 60px;
+    height: 60px;
+}
+
+th{
+    background-color:#58D3F7;
+    border-style: solid;
+    border-color: blue;
+}
+
+table{
+    border-collapse:collapse;
+    border: 2px solid blue;
+    background-color: #58FAF4;
+
+}
+td{
+    border-right: 1px solid blue;
+    border-bottom: 1px solid blue;
+}
+h1{
+    color:blue;
+
+}
